@@ -1,2 +1,2 @@
-for d in range(19,41,5):
+for d in range(20,41,5):
 print (d)
