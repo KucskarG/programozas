@@ -1,0 +1,7 @@
+import time
+import random
+i = int (input('Hány dobást szeretnél: '))
+for i in range (i):
+    x=random.randint(1,6)
+    print(x)
+    time.sleep (2)
